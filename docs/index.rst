@@ -14,7 +14,7 @@ Learn how to access your Dragon Naturally Speaking sign in account, manage setti
    :align: center
    :target: https://dragonnaturallyspeakingaccount.com/
 
-One of the most cutting-edge speech recognition programs available, Dragon Naturally Speaking can transcribe what you say into text very quickly and accurately.  Logging into your Dragon Naturally Speaking account enhances the software's capabilities, whether you're using it for dictating emails, creating documents, or managing your computer with your voice.
+One of the most cutting-edge speech recognition programs available, Dragon Naturally Speaking can transcribe what you say into text very quickly and accurately.  `dragon naturally speaking sign in account <https://dragonnaturallyspeakingaccount.com/>`_ enhances the software's capabilities, whether you're using it for dictating emails, creating documents, or managing your computer with your voice.
 
  You can preserve and sync your voice profile with just one sign-in, so your experience remains consistent across all of your devices, and you can also access premium services with just one sign-in.  This tutorial will show you the ropes when it comes to logging into Dragon Naturally Speaking, why that's crucial, and how to fix any issues that may arise.
 
