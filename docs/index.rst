@@ -8,11 +8,11 @@ How Do I Sign In to My Dragon Naturally Speaking Account?
 
 Learn how to access your Dragon Naturally Speaking sign in account, manage settings, sync profiles, and get the most from this voice recognition software.
 
-  .. image:: https://expressvpn.readthedocs.io/en/latest/_images/sign-in.jpg
+  .. image:: sign-in.jpg
    :alt: Dragon Naturally Speaking Sign In Account
    :width: 400px
    :align: center
-   :target: https://aclogportal.com/dragon-naturally-speaking-signin
+   :target: https://dragonnaturallyspeakingaccount.com/
 
 One of the most cutting-edge speech recognition programs available, Dragon Naturally Speaking can transcribe what you say into text very quickly and accurately.  Logging into your Dragon Naturally Speaking account enhances the software's capabilities, whether you're using it for dictating emails, creating documents, or managing your computer with your voice.
 
